@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7923afc2.css",
+    "main.js": "/static/js/main.621647b7.js",
+    "static/media/farmconnects.png": "/static/media/farmconnects.76e804d9ce178a04d05b.png",
+    "static/media/weather.png": "/static/media/weather.de7eb86b0bd350d040fd.png",
+    "static/media/resumemaker.png": "/static/media/resumemaker.f28c005a5b840bf2a317.png",
+    "static/media/todolist.png": "/static/media/todolist.048e42189ae76a8f43a7.png",
+    "static/media/logo7.jpeg": "/static/media/logo7.5aa5b9abfd46e785aa62.jpeg",
+    "static/media/Cpp.png": "/static/media/Cpp.666af1b3598c92045b63.png",
+    "static/media/notesapp.png": "/static/media/notesapp.8cbeadb7e84948405578.png",
+    "static/media/Resume.pdf": "/static/media/Resume.ab3995037508841a1448.pdf",
+    "static/media/bootstrap.png": "/static/media/bootstrap.ff054ae50d33a8947b08.png",
+    "static/media/logo.jpeg": "/static/media/logo.879d84dcd98a86e8c7c1.jpeg",
+    "static/media/react.png": "/static/media/react.43454bd7cb30e165408e.png",
+    "static/media/chatapp.png": "/static/media/chatapp.3f2618d1ba913b35a050.png",
+    "static/media/html.png": "/static/media/html.4f8e52ae4b94951fd1ca.png",
+    "static/media/js.png": "/static/media/js.0a88b2be8ced0f01f364.png",
+    "static/media/css.png": "/static/media/css.ab0600c9c4343824e27f.png",
+    "static/media/github.png": "/static/media/github.987334e9f782cc505f25.png",
+    "index.html": "/index.html",
+    "main.7923afc2.css.map": "/static/css/main.7923afc2.css.map",
+    "main.621647b7.js.map": "/static/js/main.621647b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7923afc2.css",
+    "static/js/main.621647b7.js"
+  ]
+}

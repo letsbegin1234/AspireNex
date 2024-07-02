@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+@layer base {
+    body {
+        @apply font-[Inter];
+    }
+    li {
+        @apply px-4;
+        @apply cursor-pointer
+    }
+}
+body {
+    font-family: 'general sans',sans-serif!important;
+}
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+.content-div:hover{
+    background-image: linear-gradient(
+        to right,
+        rgba(112, 157, 255, 0.8),
+        hsla(252,74%,61%,0.8)
+    )!important;
+}
+
+  
+body::-webkit-scrollbar {
+      width: 0px;
+      background: transparent; /* make scrollbar transparent */
+  }
+.temp{
+    
+    transform: rotate(10deg);
+    transition-duration: 200ms;
+}
+.temp:hover{
+    transform: rotate(0deg);
+    transition-duration: 200ms;
+
+}
+@media(max-width:768px){
+    .temp{
+        height: 300px;  
+    }
+}
